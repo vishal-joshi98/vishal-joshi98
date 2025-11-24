@@ -1,16 +1,24 @@
 ## Hi there 👋
 
 <!--
-**vishal-joshi98/vishal-joshi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Project
 
-Here are some ideas to get you started:
+### 🔧 Service Health Monitoring Dashboard  
+*A real-time service monitoring & analytics tool built for Support Engineers.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[🔗 View Repository](https://github.com/vishal-joshi98/service-health-monitor)
+
+**Tech Stack:**  
+`Python` · `Flask` · `APScheduler` · `psutil` · `SQL Server` · `Chart.js` · `HTML/CSS`  
+
+**Key Features:**
+- Real-time health monitoring for Port & Windows services
+- Background scheduler for continuous service checks
+- Logs failures into SQL Server database
+- 7-day downtime analytics with interactive Chart.js graphs
+- Clean UI dashboard showing live status & performance
+
+**Screenshot:**  
+![Dashboard Screenshot](images/dashboard.png)
+
 -->
