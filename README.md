@@ -18,6 +18,6 @@
 - Clean UI dashboard showing live status & performance
 
 **Screenshot:**  
-![Dashboard Screenshot](images/dashboard.png)
+images/dashboard.png
 
 
