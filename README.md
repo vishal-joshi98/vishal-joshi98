@@ -18,6 +18,6 @@
 - Clean UI dashboard showing live status & performance
 
 **Screenshot:**  
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/vishal-joshi98/service-health-monitor/images/dashboard.png)
 
 
