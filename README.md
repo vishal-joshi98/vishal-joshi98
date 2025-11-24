@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 ## 🚀 Featured Project
 
 ### 🔧 Service Health Monitoring Dashboard  
@@ -21,4 +20,4 @@
 **Screenshot:**  
 ![Dashboard Screenshot](images/dashboard.png)
 
--->
+
